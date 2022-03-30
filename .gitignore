@@ -26,3 +26,8 @@ yarn-error.log*
 /.idea/sonarlint/issuestore/index.pb
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/vcs.xml
+./package-lock.json
+/.idea/codestream.xml
+/.idea/modules.xml
+/.idea/reacttest.iml
+/.idea/.gitignore
